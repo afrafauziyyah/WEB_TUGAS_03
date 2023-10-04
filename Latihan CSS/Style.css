@@ -1,0 +1,32 @@
+a:link {
+    color: #B0578D;
+}
+
+a:visited {
+    color: #D988B9;
+}
+
+a:hover {
+    color: #FACBEA;
+}
+
+a:active {
+    color: #FFE4D6;
+}
+
+.button {
+    border-radius: 5px;
+    border: none;
+    background-color: #B0578D;
+    color: #fff;
+    text-align: center;
+    font-size: 28px;
+}
+
+.button:hover {
+    background-color: #D988B9;
+}
+
+.button:active {
+    background-color: #B0578D;
+}
